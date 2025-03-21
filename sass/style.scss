@@ -119,3 +119,38 @@ body {
     margin: 0 10px 0 0;
   }
 }
+
+.tags .list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+.tags .list li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+}
+
+.tag-size-1 {
+  font-size: 100%;
+  color: black;
+}
+
+.tag-size-2 {
+  font-size: 100%;
+  color: black
+}
+
+.tag-size-3 {
+  font-size: 110%;
+  color: black;
+}
+
+.tag-size-4 {
+  font-size: 120%;
+  color: black;
+}
+
+.tag-size-5 {
+  font-size: 130%;
+  color: black;
+}
